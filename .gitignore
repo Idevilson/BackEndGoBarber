@@ -1,0 +1,5 @@
+node_modulos
+temp/
+tmp/*
+!tmp/.gitkeep
+node_modules
